@@ -104,7 +104,7 @@
                                data-bv-stringlength="true"
                                data-bv-stringlength-min="{$register.realname.min}"
                                data-bv-stringlength-max="{$register.realname.max}"
-                               data-bv-stringlength-message="{t 1=$register.realname.min 2=$register.realname.max}The nam must be between %1 and %2 characters long{/t}">
+                               data-bv-stringlength-message="{t 1=$register.realname.min 2=$register.realname.max}The name must be between %1 and %2 characters long{/t}">
                     </div>
                 </div>
                 <div class="form-group">
